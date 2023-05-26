@@ -12,11 +12,8 @@
         <?php 
             if (isset($_GET['Singleplayer'])) {
                 include 'src/singleplayer.php';
-            } else if (isset($_GET['Ranked'])) {
-                include 'src/ranked.php';
-            } else if (isset($_GET['Casual'])) {
-                include 'src/casual.php';
-            } else {
+            } 
+            else {
                 include 'src/index.php';
             }
         ?>

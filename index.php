@@ -31,14 +31,6 @@
 
                 <a href="game.php?Singleplayer" class="btn btn-primary btn-lg btn-block">Singleplayer</a>
             </div>
-            <div class="col-4 text-center align-items-center">
-
-                <a href="game.php?Ranked" class="btn btn-primary btn-lg btn-block">Ranked</a>
-            </div>
-            <div class="col-4 text-center align-items-center">
-
-                <a href="game.php?Ranked" class="btn btn-primary btn-lg btn-block">Casual</a>
-            </div>
         </div>
     </div>
 </body>
