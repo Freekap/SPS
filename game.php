@@ -12,8 +12,7 @@
         <?php 
             if (isset($_GET['Singleplayer'])) {
                 include 'src/singleplayer.php';
-            } 
-            else {
+            }  else {
                 include 'src/index.php';
             }
         ?>
